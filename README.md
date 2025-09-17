@@ -109,8 +109,6 @@ The output file `example_output_LLMassignedgroup.csv` looks like this:
 | Group_Label                                  |
 |----------------------------------------------|
 | Extracellular Signaling and Lipid Metabolism |
-| Cytoskeleton and Angiogenesis Regulators      |
-| Ion Transporters                             |
 
 ---
 
