@@ -9,7 +9,7 @@ This workflow is useful for summarizing functional clusters of proteins (e.g., f
 
 ---
 
-## Repository Structure
+## Repository Files
 - **`gene_to_uniprot_mapping.py`**  
   Maps gene symbols to UniProt accessions and fetches annotation data (GO/Pfam/Reactome). Saves results as a CSV.
 
