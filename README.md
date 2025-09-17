@@ -3,7 +3,7 @@
 ## About
 This repository provides a quick pipeline to:
 1. Query the **UniProt REST API** to fetch annotations (GO terms, Pfam domains, Reactome pathways, etc.) for a set of proteins.  
-2. Use an **LLM (OpenAI GPT models)** to assign concise, human-readable **group labels** for protein groups based on their functional annotations.
+2. Use an **LLM** to assign concise, human-readable **group labels** for protein groups based on their functional annotations.
 
 This workflow is useful for summarizing functional clusters of proteins (e.g., from network analysis, clustering, or similarity searches) into interpretable group names.
 
